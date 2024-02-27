@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
-# run run apache server
-
-/etc/init.d/apache2 start
+# rstart the apache server
+echo "Hello Holberton" >> /etc/apache2.conf
+service apache2 start
