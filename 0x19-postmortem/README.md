@@ -1,3 +1,5 @@
+![doodle-Confused-person-for-choice-Graphics-56699372-1-1-580x387](https://github.com/Kialayoub/alx-system_engineering-devops/assets/132392508/8f1417f3-083c-4a43-8215-4a16c3604d53)
+
 
 # Postmortem: BooktifuL Platform Outage
 
@@ -28,4 +30,5 @@
   1. Conduct a review of load balancer configurations to ensure proper server connectivity.
   2. Develop automated scripts to periodically check server connections and alert if discrepancies are found.
   3. Schedule regular load testing to anticipate and prevent similar outages in the future.
+
 
